@@ -22,7 +22,7 @@
     </ckeditor:editor>
 
     <input type="submit" id="save" value="save" onclick="saveData();"/>
-    //test
+    //test push
 
 </g:if>
 
